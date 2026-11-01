@@ -1,6 +1,6 @@
 # Smritilata Sarkar  Software QA Engineer
 smritilatasarkar2018@gmail.com | +91 6294410077 | linkedin.com/in/smritilata-sarkar-a81a4428a  
-pokemon-qa-portfolio.vercel.app
+smritilata-qa-portfolio.vercel.app
 
 ---
 

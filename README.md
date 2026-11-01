@@ -1,4 +1,4 @@
-# ⚡ Smritilata Sarkar — Poké-DEX QA Portfolio
+# ⚡ Smritilata Sarkar — smritilata-qa-portfolio
 
 A bespoke, Pokémon-themed interactive portfolio built for **Smritilata Sarkar (Software QA Engineer)**.
 
@@ -45,18 +45,14 @@ Featuring an **interactive 3D Pokéball summoning animation**, Web Audio API syn
 This project is built with vanilla **HTML5**, **CSS3**, and **ES6 JavaScript**. It requires **zero build steps or package installations**.
 
 ### Method 1: Direct File Open
-Simply double-click `index.html` in Windows Explorer or open it in Google Chrome / Microsoft Edge:
-```text
-C:\Users\smrit\.gemini\antigravity\scratch\pokemon-qa-portfolio\index.html
-```
+Simply double-click `index.html` in Windows Explorer or open it in Google Chrome / Microsoft Edge.
 
 ### Method 2: Deploy with Vercel (Production)
-The portfolio is deployed to Vercel production under your authenticated account:
+The portfolio is deployed to Vercel production:
 
-- **Official Live Production URL:** [https://pokemon-qa-portfolio.vercel.app](https://pokemon-qa-portfolio.vercel.app)
-- **Deployment Preview:** [https://pokemon-qa-portfolio-qbjsdly2t.vercel.app](https://pokemon-qa-portfolio-qbjsdly2t.vercel.app)
-- **Vercel Dashboard:** [Project Overview](https://vercel.com/smritilatasarkar2018-gmailcoms-projects/pokemon-qa-portfolio)
-- **GitHub Repository:** [https://github.com/smritilata/pokemon-qa-portfolio](https://github.com/smritilata/pokemon-qa-portfolio)
+- **Official Live Production URL:** [https://smritilata-qa-portfolio.vercel.app](https://smritilata-qa-portfolio.vercel.app)
+- **Vercel Dashboard:** [Project Overview](https://vercel.com/smritilatasarkar2018-gmailcoms-projects/smritilata-qa-portfolio)
+- **GitHub Repository:** [https://github.com/smritilata/smritilata-qa-portfolio](https://github.com/smritilata/smritilata-qa-portfolio)
 
 Whenever you make updates, you can push them with:
 ```bash
@@ -65,6 +61,6 @@ git push
 Or simply double-click [`deploy-vercel.bat`](file:///C:/Users/smrit/.gemini/antigravity/scratch/pokemon-qa-portfolio/deploy-vercel.bat).
 
 ### Method 3: Host on GitHub Pages (Free)
-1. Push this folder to a GitHub repository (e.g. `username.github.io` or `pokemon-qa-portfolio`).
+1. Push this folder to a GitHub repository (e.g. `username.github.io` or `smritilata-qa-portfolio`).
 2. Go to **Settings > Pages** and set source to `main` branch.
-3. Your portfolio will be live at `https://<username>.github.io/pokemon-qa-portfolio/`!
+3. Your portfolio will be live at `https://<username>.github.io/smritilata-qa-portfolio/`!
